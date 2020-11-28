@@ -1,0 +1,2 @@
+https://dyncdn2.com/static/20/js/showads*.js
+https://dyncdn2.com/static/20/js/expl*.js
